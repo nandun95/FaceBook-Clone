@@ -6,7 +6,7 @@ function App() {
   return (
     //BEM naming convention
     <div className="App">
-      <h2>Hello World</h2>
+      
       {/* Header */}
         <Header/>
 
